@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//ceva nou
 int function(int x){
     x=x-2;
     return x;
