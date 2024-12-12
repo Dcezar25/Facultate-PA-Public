@@ -5,7 +5,7 @@ int function(int x){
     x=x-2;
     return x;
 }
-
+//com luca
 int main(){
 	int a=30, i=0;
 
